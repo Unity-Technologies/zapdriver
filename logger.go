@@ -1,4 +1,4 @@
-package zapdriver //import "go.ajitem.com/zapdriver"
+package zapdriver
 
 import (
 	"go.uber.org/zap"
